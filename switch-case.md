@@ -4,7 +4,7 @@ Switch case adalah struktur kontrol yang digunakan untuk menyeleksi satu blok ko
 
 Switch case digunakan untuk memilih satu dari beberapa kode blok sesuai dengan ekspresi yang ditentukan. switch case secara fungsi hampir sama dengan if-else namun lebih sederhana
 
-switch(ekspresi) {
+<!-- switch(ekspresi) {
     case nilai1:
         // blok kode yang akan dijalankan jika ekspresi sama dengan nilai1
         break;
@@ -14,7 +14,7 @@ switch(ekspresi) {
 
     default:
         // blok kode yang akan dijalankan jika ekspresi tidak sama dengan nilai1 ataupun nilai2
-}
+} -->
 
 
 
